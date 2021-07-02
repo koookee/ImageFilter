@@ -3,8 +3,6 @@ Copyright 2020 Hussein El Mokdad, Ajmer Thethy, Sara Habib, and Haoyang Dong
 
 Contact info:
 Email: husseinelmokdad@cmail.carleton.ca
-Phone: +1 (343) 111-1111
-
 
 
 Installation:
